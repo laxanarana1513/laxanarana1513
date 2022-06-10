@@ -24,7 +24,7 @@
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-<!-- &nbsp;&nbsp; -->
+&nbsp;&nbsp;
 <!-- [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only) -->
 
@@ -37,8 +37,8 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/github-light.svg)](https://github.com/laxanarana1513#gh-light-mode-only)
-[![website](./img/github-dark.svg)](https://github.com/laxanarana1513#gh-dark-mode-only)
+<!-- [![website](./img/github-light.svg)](https://github.com/laxanarana1513#gh-light-mode-only)
+[![website](./img/github-dark.svg)](https://github.com/laxanarana1513#gh-dark-mode-only) -->
 
 ### Languages and Tools:
 
