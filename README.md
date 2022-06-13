@@ -62,7 +62,7 @@
 <br />
 <br />
 
----
+<!-- --- -->
 
 <!-- ### 📕 Latest Blog Posts
 
@@ -74,7 +74,7 @@
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) --> -->
 
----
+<!-- --- -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
