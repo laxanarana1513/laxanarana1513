@@ -77,9 +77,15 @@
 <!-- --- -->
 
 <!-- <details> -->
-  <summary>:zap: GitHub Stats</summary>
+<!--   <summary>:zap: GitHub Stats</summary> -->
 
-  <img align="left" alt="Laxana's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laxanarana1513&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<!--   <img align="left" alt="Laxana's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laxanarana1513&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
+## 📈 Stats
+<p align="center">
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=laxanarana1513&show_icons=true&theme="/>
+  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=laxanarana1513&theme=" />
+ </p>
 
 <!-- </details> -->
 
